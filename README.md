@@ -59,3 +59,7 @@ For any questions or suggestions, please open an issue or contact the project ma
 ---
 
 Your participation and feedback can help make this project a vital resource for the research community. Let's collaborate to build something great!
+
+## 🤖 About This Document
+
+Portions of this document were generated using AI technology to provide a comprehensive overview and detailed instructions for the DSR Artifact Management System. While we've made every effort to ensure accuracy and completeness, we encourage contributors to review and contribute improvements to this guide where necessary. The integration of AI-generated content aims to enhance the clarity and usefulness of the documentation but should not replace human oversight and contributions.
